@@ -14,7 +14,7 @@ Best seating arrangement after 50 generations :<br/>
 6 5 1<br/>
 7 5 4<br/>
 8 9 3<br/>
-With happiness index score: 153.3606789250354
+With happiness Index score: 153.3606789250354
 
 This can be extended to many generation based on time and computational power.
 
